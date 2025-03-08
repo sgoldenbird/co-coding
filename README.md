@@ -22,7 +22,7 @@ JavaScript
 - We will provide feedback to each other through code reviews and issues.
 - We will maintain the repo by taking turns(Sienna -> Adrian -> Rafi)
 - Refer to **[the milestones](https://github.com/sgoldenbird/co-coding/milestones)** for the specific progress.
-- Refer to **[co-coding roadmap](https://github.com/sgoldenbird/projects/2)** for the overall progress.
+- Refer to **[co-coding roadmap](https://github.com/users/sgoldenbird/projects/2)** for the overall progress.
 
 ### 🤝 PR Rules
 
@@ -33,6 +33,8 @@ JavaScript
 
 - If you encounter difficult problems, create an issue using **the question issue template** to ask questions and share solutions.
 - Label a category of a problem (e.g. `array` `string`)
+- Label a level of a problem (e.g. `easy` `medium`)
+- Label a source of a problem (e.g. `LeetCode` `LeetCode75`)
 
 ### 🤝 Commit Rules
 
