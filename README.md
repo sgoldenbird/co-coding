@@ -21,7 +21,7 @@ JavaScript
 - Submit a PR to the main branch by **Friday** each week.
 - Merging will occur every Saturday.
 - We will provide feedback to each other through code reviews and issues.
-- We will solve 3 problems per week. (Adjustments will be made if the difficulty increases.)
+- We will solve 3~4 problems per week. (Adjustments will be made if the difficulty increases.)
 - If you encounter difficult problems, create an issue using **the question issue template** to ask questions and share solutions.
 - Refer to **[the milestones](https://github.com/yourusername/yourrepo/milestones)** for the specific progress.
 

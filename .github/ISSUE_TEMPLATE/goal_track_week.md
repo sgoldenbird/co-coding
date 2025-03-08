@@ -1,32 +1,18 @@
 ---
-name: "goal-tracking"
-about: "Use this template for using issues as goal tracking items."
-title: "`Week ~ Week ` Goal"
+name: "weekly-goal-tracking"
+about: "Use this template for using issues as weekly goal tracking items."
+title: "`Week `"
 labels: "goal"
 assignees: ""
 ---
 
 ## Goal
 
-**Week**:
+**Week**: week1 2025.03.08 ~ 2025.03.14
 
-**Goal Description**:
+**Goal Description**: Solve three easy questions
 
-**Deadline**:
-
----
-
-## Problems List
-
-**week1** 2025.03.08-2025.03.14
-
-- Problem 1
-- Problem 2
-
-**week2** 2025.03.08-2025.03.14
-
-- Problem 3
-- Problem 4
+**Deadline**: 2025.03.14 FRI
 
 ---
 
