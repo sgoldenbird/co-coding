@@ -1,5 +1,5 @@
 ---
-name: "Suggestion/Improvement"
+name: "suggestion/improvement"
 about: "Use this template to propose an improvement or suggest an operational change."
 title: "Enter the title of your suggestion"
 labels: "suggestion"
