@@ -17,18 +17,27 @@ JavaScript
 
 ## 🤝 Collaboration Rules
 
-- Each participant will create their own branch and code individually. Example: sienna
-- Submit a PR to the main branch by **Friday** each week.
-- Merging will occur every Saturday.
-- We will provide feedback to each other through code reviews and issues.
+- Each participant will create their own branch with their name and code individually.
 - We will solve 3~4 problems per week. (Adjustments will be made if the difficulty increases.)
+- We will provide feedback to each other through code reviews and issues.
+- We will maintain the repo by taking turns(Sienna -> Adrian -> Rafi)
+- Refer to **[the milestones](https://github.com/sgoldenbird/co-coding/milestones)** for the specific progress.
+- Refer to **[co-coding roadmap](https://github.com/sgoldenbird/projects/2)** for the overall progress.
+
+### 🤝 PR Rules
+
+- Submit a PR to the main branch by **Friday** each week.
+- Merge every Saturday.
+
+### 🤝 Issue Rules
+
 - If you encounter difficult problems, create an issue using **the question issue template** to ask questions and share solutions.
-- Refer to **[the milestones](https://github.com/yourusername/yourrepo/milestones)** for the specific progress.
+- Label a category of a problem (e.g. `array` `string`)
 
-## 🤝 Commit Rules
+### 🤝 Commit Rules
 
-- Commit after solving each problem
-- Refer to the table below for writing commit messages
+- Commit after solving each problem.
+- Refer to the table below for writing commit messages.
 
 | Commit Type | Description                                          | Example Message                                                   |
 | ----------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
