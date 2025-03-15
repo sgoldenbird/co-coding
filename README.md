@@ -33,6 +33,8 @@ JavaScript
 
 - If you encounter difficult problems, create an issue using **the question issue template** to ask questions and share solutions.
 - Label a category of a problem (e.g. `array` `string`)
+- Label a level of a problem (e.g. `easy` `medium`)
+- Label a source of a problem (e.g. `LeetCode` `LeetCode75`)
 
 ### 🤝 Commit Rules
 
@@ -41,9 +43,9 @@ JavaScript
 
 | Commit Type | Description                                          | Example Message                                                   |
 | ----------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
-| `feat:`     | Used when adding a new feature                       | `feat: solve problem 'Merge Strings Alternately'`                 |
+| `solve:`    | Used when solving a problem                          | `solve: merge strings alternately`                                |
 | `fix:`      | Used when fixing a bug                               | `fix: correct logic for checking the greatest common divisor`     |
+| `optimize:` | Used for optimizing code (no functional changes)     | `optimize: simplify the algorithm for finding the common divisor` |
+| `note:`     | Used when adding some notes                          | `note: add explanation for 'merge strings alternately' solution`  |
 | `docs:`     | Used when updating documentation (e.g., README)      | `docs: update README with explanation for new problem solution`   |
-| `refactor:` | Used for refactoring code (no functional changes)    | `refactor: simplify the algorithm for finding the common divisor` |
-| `test:`     | Used when adding or modifying tests                  | `test: add unit tests for 'Merge Strings Alternately' solution`   |
 | `chore:`    | Used for other changes (e.g., updating dependencies) | `chore: update package dependencies`                              |
