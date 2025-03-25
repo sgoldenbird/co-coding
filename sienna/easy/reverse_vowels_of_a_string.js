@@ -10,8 +10,8 @@ link: https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envT
 var reverseVowels = function (string) {
   const vowels = new Set(["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]);
   let arr = string.split("");
-  let left = 0,
-    right = string.length - 1;
+  let left = 0;
+  let right = string.length - 1;
 
   while (left < right) {
     if (!vowels.has(arr[left])) {
