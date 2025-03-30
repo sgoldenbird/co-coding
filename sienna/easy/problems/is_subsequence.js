@@ -1,6 +1,6 @@
 /* 
 date: 2025-03-28
-category: 
+category: string, two pointers
 difficulty: easy 
 source: LeetCode 75
 number: 392

@@ -1,6 +1,6 @@
 /* 
 date: 2025-03-28
-category: 
+category: array, sliding window
 difficulty: easy 
 source: LeetCode 75
 number: 643
