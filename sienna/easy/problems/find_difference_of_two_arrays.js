@@ -1,6 +1,6 @@
 /* 
 date: 2025-04-03
-category: array, set
+category: array, Set
 difficulty: easy 
 source: LeetCode 75
 number: 2215
