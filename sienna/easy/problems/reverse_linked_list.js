@@ -1,6 +1,6 @@
 /* 
 date: 2025-04-11
-category: 
+category: array
 difficulty: easy 
 source: LeetCode 75
 number: 206
