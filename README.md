@@ -26,8 +26,8 @@ JavaScript
 
 ### 🤝 PR Rules
 
-- Submit a PR to the main branch by **Friday** each week.
-- Merge every Saturday.
+- Submit a PR to the main branch by **Saturday** each week.
+- Merge before every Tuesday.
 
 ### 🤝 Issue Rules
 
