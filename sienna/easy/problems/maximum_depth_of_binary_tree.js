@@ -1,6 +1,6 @@
 /* 
 date: 2025-04-11
-category: 
+category: tree, binary-tree, depth-first-search(DFS), recursion
 difficulty: easy 
 source: LeetCode 75
 number: 104
@@ -18,4 +18,9 @@ link: https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function (root) {};
+var maxDepth = function (root) {
+  var maxDepth = function (root) {
+    if (root === null) return 0;
+    return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+  };
+};
