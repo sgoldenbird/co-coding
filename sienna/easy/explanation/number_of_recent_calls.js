@@ -8,7 +8,7 @@ link: https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v
 */
 
 var RecentCounter = function () {
-  this.queue = [];
+  this.queue = []; // 요청 시간을 저장할 큐
 };
 
 /**
@@ -16,11 +16,14 @@ var RecentCounter = function () {
  * @return {number}
  */
 RecentCounter.prototype.ping = function (t) {
-  this.queue.push(t);
+  this.queue.push(t); // 새로운 요청 추가
+
+  // 큐 앞에서부터 오래된 요청 제거
   while (this.queue[0] < t - 3000) {
     this.queue.shift();
   }
-  return this.queue.length;
+
+  return this.queue.length; // 최근 3000ms 내 요청 수 반환
 };
 
 /**
